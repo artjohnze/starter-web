@@ -5,3 +5,6 @@
 ## Purpose
 
 ## How To Contribute 1
+
+## Copyright
+Copyright 2023
