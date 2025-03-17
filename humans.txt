@@ -2,8 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+Name: John Doe
+Email: john.doe@example.com
+Twitter: @johndoe
 
 # THANKS
 
